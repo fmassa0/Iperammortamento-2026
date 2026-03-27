@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NR>=14 && NR<=78' \"c:/Users/massa/Repo GitHub/Iperammortamento-2026/index.html\")",
+      "Bash(awk 'NR>=240 && NR<=315' \"c:/Users/massa/Repo GitHub/Iperammortamento-2026/index.html\")",
+      "Bash(awk 'NR>=240 && NR<=280' \"c:/Users/massa/Repo GitHub/Iperammortamento-2026/index.html\")",
+      "Bash(awk 'NR>=280 && NR<=320' \"c:/Users/massa/Repo GitHub/Iperammortamento-2026/index.html\")",
+      "Bash(awk 'NR>=295 && NR<=315' \"c:/Users/massa/Repo GitHub/Iperammortamento-2026/index.html\")",
+      "Bash(awk 'NR>=298 && NR<=300' \"c:/Users/massa/Repo GitHub/Iperammortamento-2026/index.html\")"
+    ]
+  }
+}
